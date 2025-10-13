@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hola, soy <b>SUALBA</b></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix green code animation" />
@@ -34,6 +33,9 @@
   <!-- DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
+</p>
+<p align="center">
+  <img src="./assets/heart-trail.svg" alt="Heart Trail banner" width="100%" />
 </p>
 
 ### 🛡️ Ciberseguridad
