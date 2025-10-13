@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Camino -->
+    <path id="path" d="M 0,130 C 180,20 360,220 540,120 720,20 900,220 1080,120 1140,90 1170,90 1200,120"
+          fill="none" stroke="none"/>
+
+    <!-- Corazón más grande, con borde -->
+    <path id="heart" d="M24 42s-18-10-18-24a11 11 0 0 1 18-7 11 11 0 0 1 18 7c0 14-18 24-18 24z"
+          fill="#00ff99" stroke="#003322" stroke-width="2" filter="url(#glow)"/>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="100%" height="100%" fill="#0b0f10"/>
+
+  <!-- Estela de corazones -->
+  <g>
+    <use href="#heart">
+      <animateMotion dur="7s" repeatCount="indefinite">
+        <mpath href="#path"/>
+      </animateMotion>
+    </use>
+    <use href="#heart" opacity="0.85" transform="scale(0.9)">
+      <animateMotion dur="7s" begin="0.25s" repeatCount="indefinite">
+        <mpath href="#path"/>
+      </animateMotion>
+    </use>
+    <use href="#heart" opacity="0.7" transform="scale(0.8)">
+      <animateMotion dur="7s" begin="0.5s" repeatCount="indefinite">
+        <mpath href="#path"/>
+      </animateMotion>
+    </use>
+    <use href="#heart" opacity="0.55" transform="scale(0.7)">
+      <animateMotion dur="7s" begin="0.75s" repeatCount="indefinite">
+        <mpath href="#path"/>
+      </animateMotion>
+    </use>
+    <use href="#heart" opacity="0.4" transform="scale(0.6)">
+      <animateMotion dur="7s" begin="1s" repeatCount="indefinite">
+        <mpath href="#path"/>
+      </animateMotion>
+    </use>
+  </g>
+
+  <!-- “Bicho” que lidera la estela -->
+  <circle r="10" fill="#7CFFCB" filter="url(#glow)">
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#path"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Texto (opcional) -->
+  <text x="50%" y="70" text-anchor="middle"
+        font-family="Fira Code, Consolas, monospace"
+        font-size="32" fill="#7CFFCB" filter="url(#glow)">
+    SUALBA — Frontend con estilo propio ✨
+  </text>
+</svg>
