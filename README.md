@@ -64,7 +64,7 @@
   <a href="https://sualba.dev" target="_blank">
     <img src="https://img.shields.io/badge/Web-sualba.dev-00FF88?style=for-the-badge&logo=firefoxbrowser&logoColor=000000" alt="Web" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/susana-alba-santamaria-a5aba096/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
   <a href="mailto:sualba.dev@gmail.com">
