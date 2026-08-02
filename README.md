@@ -15,6 +15,8 @@
 🎯 Mi objetivo: proteger infraestructuras críticas mediante **auditoría, detección y cumplimiento normativo**.  
 🛠️ Combino habilidades técnicas con visión estratégica para **gestionar riesgos** y asegurar la continuidad del negocio.
 
+**🏅 Entre el top 7% de proyectos de España** - Accésit en los **I Premios Appcesibilidad** por el desarrollo de una solución tecnológica de impacto social.
+
 **Mi filosofía:** *"La seguridad no es un destino, es un viaje constante de mejora."*
 
 > **Mi trayectoria profesional:**  
@@ -123,11 +125,45 @@
 
 ---
 
-## 🏆 Trofeos y Reconocimientos
+## 🏆 Hito Destacado: Accésit en los I Premios Appcesibilidad
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUALBA&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+### 🏅 Reconocimiento Oficial de Excelencia Tecnológica y Social
+
+**Proyecto:** OCIOY+ (Plataforma de ocio inclusivo)
+**Convocatoria:** I Edición Premios Appcesibilidad (2023-2024)
+**Organizadores:** DXC Technology España & Fundación Human Age Institute (ManpowerGroup)
+
+---
+
+#### 📊 Magnitud del Logro (Datos Oficiales)
+
+| Fase | Datos | Significado |
+| :--- | :--- | :--- |
+| **Solicitudes iniciales** | > 475 proyectos | Participación a nivel nacional |
+| **Proyectos finalistas (top 7%)** | 33 proyectos | Superación de **5 fases eliminatorias** con filtros de viabilidad, documentación técnica e impacto social. |
+| **Reconocimiento obtenido** | **Accésit Oficial** | **Entre el top 7% de proyectos de toda España.** |
+
+
+---
+
+#### 🛠️ Mi Contribución y Logros
+
+- **Desarrollo integral:** Lideré el proyecto desde la **ideación hasta la entrega del prototipo funcional y el estudio de viabilidad**.
+- **Superación de un proceso extremo:** Mi proyecto sobrevivió a un **embudo técnico de 5 fases eliminatorias**, que incluía:
+  - Auditoría de viabilidad técnica y económica.
+  - Validación del impacto social y la inclusión.
+  - Entregas de documentación técnica por tramos.
+- **Reconocimiento formal:** Recibí una mención oficial por el diseño de una **solución móvil innovadora** para la accesibilidad digital y la autonomía de personas con diversidad funcional.
+
+> *"Queremos reconocer tu trabajo y dedicación en pro de las personas con discapacidad con este accésit."* — **Equipo Human Age Institute**
+
+---
+
+#### 🔮 Estado Actual y Futuro del Proyecto
+
+El proyecto cuenta con una **base técnica y de negocio sólida** (prototipo, estudio de viabilidad y plan de ejecución) y se encuentra en **pausa por búsqueda de financiación** para su desarrollo completo. Estoy abierta a colaboraciones con inversores, entidades públicas o privadas que quieran reactivar esta solución de impacto social.
+
+🔗 *Repositorio y documentación del proyecto disponibles próximamente.*
 
 ### 🏅 Accésit Premios Appcesibilidad 2024
 
@@ -141,9 +177,24 @@
 | :--- | :--- | :--- | :--- |
 | 🏆 **Accésit** | Human Age Institute | OCIOY+ | 2024 |
 
+
+
 </div>
 
 > 💡 Este reconocimiento destaca mi compromiso con la **tecnología accesible** y la **inclusión digital**, demostrando que la tecnología puede y debe estar al servicio de todas las personas.
+>
+---
+#### 📄 Documentación Técnica del Proyecto
+
+El proyecto cuenta con una **documentación técnica y funcional completa** que incluye:
+
+- **Arquitectura del sistema:** Interfaz de usuario, servidor backend (Node.js), bases de datos MongoDB y APIs externas (Google Maps, traducción).
+- **Tecnologías seleccionadas:** React, Express.js, Mongoose, Bootstrap, entre otras.
+- **Modelo de datos:** Diseño de entidades (Usuario, Evento, Voluntario) con sus relaciones.
+- **Diseño de UI/UX:** Pantallas de login, registro, dashboard, detalles de evento, perfil de usuario y configuración, todas con **enfoque en accesibilidad (WCAG)**.
+- **Estudio de viabilidad:** Análisis técnico, operativo y financiero, con estrategias de financiación y crecimiento.
+
+**🔗 *Documentación completa disponible próximamente en el repositorio del proyecto.***
 
 ## 📊 Estadísticas
 
@@ -160,7 +211,7 @@
 
 ---
 
-## 🐍 Snake (Contribuciones)
+## 🐍 Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUALBA/SUALBA/output/github-contribution-grid-snake-dark.svg" />
@@ -177,7 +228,7 @@
 
 <div align="center">
 
-**⭐ ¿Te ha sido útil mi perfil? ¡Dale una estrella a mis repositorios!**  
+**⭐ ¿Interesado en colaborar o hablar de ciberseguridad? Conecta conmigo en [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susana-alba-santamaria-a5aba096/)**  
 *"La seguridad no es un producto, es un proceso."*
 
 </div>
