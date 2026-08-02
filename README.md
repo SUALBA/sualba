@@ -132,8 +132,7 @@
 ### 🏅 Accésit Premios Appcesibilidad 2024
 
 <p align="center">
-  <img src="accesit-appcesibilidad-2024.png" alt="Accésit Premios Appcesibilidad 2024" width="400" style="border-radius: 10px;"/>
-</p>
+<img src="assets/accesit-appcesibilidad-2024.png" alt="Accésit Premios Appcesibilidad 2024" width="400" style="border-radius: 10px;"/>
 
 <div align="center">
   
@@ -144,7 +143,6 @@
 </div>
 
 > 💡 Este reconocimiento destaca mi compromiso con la **tecnología accesible** y la **inclusión digital**, demostrando que la tecnología puede y debe estar al servicio de todas las personas.
-
 ---
 
 ## 📊 Estadísticas
